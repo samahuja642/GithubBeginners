@@ -37,3 +37,7 @@
  - Place: Lucknow,Uttar Pradesh
  - Bio: AI,ML and Data Science Enthusiast
  - Github: [Aditya](https://github.com/Adinarayanreloaded)
+#### name:samarth ahuja
+-place:sri ganganagar , rajasthan
+-bio: till now aspirant
+-github-(https://github.com/samahuja642)
